@@ -1,0 +1,15 @@
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+    background-color: #f55f55;
+    padding: 14px 25px;
+    border-radius: 4px;
+}
+
+a:hover, a:active {
+    
+    background-color:red;
+    font-size: 110%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+

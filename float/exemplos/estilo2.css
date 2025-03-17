@@ -1,0 +1,46 @@
+.cabecalho {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.ativo, .noticias, .contato, .sobre {
+    float: left;
+}
+.topo a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topo a:hover {
+    background-color: #111;
+}
+.ativo {
+    background-color: red;
+}
+
+.barra-lateral{
+    float: left;
+    padding: 15px;
+    clear: both;
+}
+.lateral {
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: #33b5e5;
+    color: #fff;
+}
+
+.lateral a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.lateral:hover {
+    background-color: #0099cc;
+} 

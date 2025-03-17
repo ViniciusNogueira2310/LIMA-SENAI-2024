@@ -1,0 +1,31 @@
+.container {
+    position: relative;
+}
+
+.caixa-branca {
+    position: relative;
+    /*z-index: 1;*/
+    border: 2px solid black;
+    height: 100px;
+    margin: 30px;
+}
+
+.caixa-cinza {
+    position: absolute;
+    /*z-index: 3;*/
+    background: lightgray;
+    height: 60px;
+    width: 70%;
+    left: 50px;
+    top: 50px;
+}
+
+.caixa-verde {
+    position: absolute;
+    /*z-index: 2;*/
+    background: lightgreen;
+    height: 100px;
+    width: 35%;
+    left: 270px;
+    top: -15px;
+}

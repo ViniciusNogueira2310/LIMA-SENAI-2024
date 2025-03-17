@@ -1,0 +1,30 @@
+body{
+    font-size: 100%;
+}
+
+.p1{
+    font-family: "Sofia", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    font-size: 2.5em;
+}
+.p2{
+    font-family: "Trirong", serif;
+    font-style: italic;
+    font-size: 1.875em; 
+
+}
+.p3{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+    font-size: 0.875em;
+}
+.p4{
+    /*font-family: "Audiowide", sans-serif;
+    font-weight: bold;
+    font-variant:small-caps;
+    font-size: 5vw;*/
+    font: bold small-caps 5vw "Audiowide", sans-serif;
+    /*text-shadow: 3px 3px 3px #ababab;*/
+}

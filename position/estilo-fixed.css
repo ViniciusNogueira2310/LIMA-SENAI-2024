@@ -1,0 +1,11 @@
+.titulo {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    width: 100%;
+    margin: 0;
+}
+
+p {
+    margin-top: 100px;
+}

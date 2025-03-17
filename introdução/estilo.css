@@ -1,0 +1,56 @@
+/*
+p {
+    
+    text-align: center;
+    background-color: tomato;
+}
+
+h1 {
+    background-color:dodgerblue;
+}
+
+
+
+#cor1{
+    background-color: rgb(255,0,0);
+}
+#cor2{
+    background-color:rgb(0,0,255);
+}
+#cor3{
+    background-color:rgb(60,179,113);
+}
+#cor4{
+    background-color:rgb(238,130,238);
+}
+#cor5{
+    background-color:rgb(255,165,0);
+}
+#cor6{
+    background-color:rgb(106,90,205)
+}
+
+#cor7{
+    background-color: rgb(0,0,0);
+}
+#cor8{
+    background-color:rgb(90,90,90);
+}
+#cor9{
+    background-color:rgb(120,120,180);
+}
+#cor10{
+    background-color:rgb(180,210,180);
+}
+#cor11{
+    background-color:rgb(210,210,210);
+}
+#cor12{
+    background-color:rgb(240,240,240)
+}*/
+
+body{
+    background-color: rgba(255, 204, 153, 0.5);
+       
+    /*background: url("montanha.jpeg") no-repeat right top fixed;*/
+}

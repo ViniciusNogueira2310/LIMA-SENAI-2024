@@ -1,0 +1,14 @@
+div {
+    /*margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;*/
+    margin-left: 50px;
+    margin-top: 300px;
+    width: 300px;
+    border: 1px solid black;
+    background-color: lightblue;
+}
+p{
+    margin-left: inherit;
+}

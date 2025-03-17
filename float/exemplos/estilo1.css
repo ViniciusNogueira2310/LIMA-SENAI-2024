@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.caixa1, .caixa2, .caixa3 {
+        float: left;
+        width: 33.33%;
+        padding: 50px;
+        height: 300px;
+}
+.caixa1{
+    background-color: #bbb; /*#BBBBBB */
+}
+.caixa2{
+    background-color: #ccc; /*#CCCCCC */
+}
+.caixa3{
+    background-color: #ddd; /*#DDDDDD */
+}

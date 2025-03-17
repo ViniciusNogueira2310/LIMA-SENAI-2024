@@ -1,0 +1,17 @@
+.div1{
+    float: left;
+}
+
+.div2{
+    text-align: justify;
+    
+}
+
+.abacaxi{
+    float: left;
+}
+
+.div3{
+    border: 3px solid;
+    overflow: auto;
+}
